@@ -15,7 +15,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 
 ### 事前学習
 - Week1 Python入門
-  - [Week1 授業前課題1 Pythonを使ってみよう](https://github.com/satoshi30/diveintocode-ml/blob/master/PriorLearning/Week1_PythonIntroduction/Week1_before_class_task.ipynb)
+  - [Week1 授業前課題1 Pythonを使ってみよう](https://github.com/T-Sawao/diveintocode-ml/blob/main/PriorLearning/Week1_PythonIntroduction/Week1_before_class_task1.ipynb)
   - [Week1 授業課題1 曽呂利新左衛門問題]
   - [Week1 授業課題2 何回折ったら富士山を超えるか問題]
   - [Week1 授業課題3 栗まんじゅう問題]
